@@ -7,7 +7,6 @@ It uses:
 - HTML 5
 - CSS 3
 - Boostrap 
-- Javascript 
 
 To create a website which represents the CV. There is a responsive nav bar with button to navigate trought the differents sections of the CV. 
 
